@@ -39,6 +39,7 @@ ipython==8.8.0
 ipython-genutils==0.2.0
 jedi==0.18.2
 Jinja2==3.1.2
+joblib==1.2.0
 json5==0.9.11
 jsonschema==4.17.3
 jupyter-client==7.4.9
@@ -66,7 +67,7 @@ nest-asyncio==1.5.6
 notebook==6.5.2
 notebook-shim==0.2.2
 numba==0.56.4
-numpy==1.24.1
+numpy==1.23.5
 oauthlib==3.2.2
 opt-einsum==3.3.0
 packaging==23.0
@@ -100,9 +101,11 @@ requests-oauthlib==1.3.1
 rfc3339-validator==0.1.4
 rfc3986-validator==0.1.1
 rsa==4.9
+scikit-learn==1.2.1
 scipy==1.10.0
 Send2Trash==1.8.0
 six==1.16.0
+sklearn==0.0.post2
 sniffio==1.3.0
 soupsieve==2.3.2.post1
 ssqueezepy==0.6.3
@@ -115,6 +118,7 @@ tensorflow-estimator==2.11.0
 tensorflow-io-gcs-filesystem==0.29.0
 termcolor==2.2.0
 terminado==0.17.1
+threadpoolctl==3.1.0
 tinycss2==1.2.1
 tomli==2.0.1
 tornado==6.2

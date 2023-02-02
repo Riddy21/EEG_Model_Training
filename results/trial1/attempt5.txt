@@ -1,0 +1,14 @@
+Epoch 1/7
+2664/2664 [==============================] - 492s 185ms/step - loss: 0.5331 - accuracy: 0.7695 - val_loss: 0.2324 - val_accuracy: 0.9405
+Epoch 2/7
+2664/2664 [==============================] - 494s 185ms/step - loss: 0.2933 - accuracy: 0.9347 - val_loss: 0.1692 - val_accuracy: 0.9439
+Epoch 3/7
+2664/2664 [==============================] - 493s 185ms/step - loss: 0.0799 - accuracy: 0.9788 - val_loss: 0.0288 - val_accuracy: 0.9919
+Epoch 4/7
+2664/2664 [==============================] - 492s 185ms/step - loss: 0.0549 - accuracy: 0.9869 - val_loss: 0.0295 - val_accuracy: 0.9892
+Epoch 5/7
+2664/2664 [==============================] - 495s 186ms/step - loss: 0.0516 - accuracy: 0.9915 - val_loss: 0.1015 - val_accuracy: 0.9865
+Epoch 6/7
+2664/2664 [==============================] - 493s 185ms/step - loss: 0.0592 - accuracy: 0.9889 - val_loss: 0.0501 - val_accuracy: 0.9932
+Epoch 7/7
+2664/2664 [==============================] - 495s 186ms/step - loss: 0.0594 - accuracy: 0.9924 - val_loss: 0.0290 - val_accuracy: 0.9926

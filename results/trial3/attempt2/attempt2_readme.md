@@ -1,5 +1,5 @@
 
-## 2nd attempt - More data
+## 2nd attempt - Smaller prediction frame
 
 ### Changes made
 - Trying the model with different dataset found online
@@ -15,3 +15,6 @@
 - Decrease in overall accuracy probably
 
 ### Issues noticed
+- Validation accuracy still deviates from training accuracy too early
+- Much cleaner looking confusion matrix
+- Very equal guesses for LEFT, RIGHT and PASSIVE

@@ -7,9 +7,11 @@
 - Using the LR hand paradigm
 - Baseline:
     - Original model, 34 samples per prediction
+    - All 22 Channels
     - See if increasing the amount of data has significant effect
 
 ### Expected results
 - Should overfit later
 
 ### Issues noticed
+- Higher accuracy however still overfits starting epoch 5

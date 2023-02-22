@@ -1,5 +1,5 @@
 
-## 9th attempt - Putting it all together
+## 9th attempt - Multi channel Test
 
 ### Changes made
 - Trying the model with different dataset found online
@@ -18,9 +18,13 @@
     - Changing CNN sizing to see effect
     - Changing CNN stride size and kernel size and see effect
 - GRU Recurrent network
-- learning rate of 0.0001
+- learning rate of 0.01
 
 ### Expected results
 - See if we can get more validation and training data correlation
 
 ### Issues noticed
+- Looks like training could not pass 50% accuracy
+    - likely means that model with multiple channels could not understand the data
+- Increasing the sample size seems to improve the accuracy by can't do more than that
+ 

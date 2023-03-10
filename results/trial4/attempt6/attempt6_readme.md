@@ -1,14 +1,14 @@
 
-## 5rd attempt
+## 6th attempt
 
 ### Changes made
 - Trying new model new training data from interactive movement dataset
-- SEGMENT_WINDOW_SIZE = 400 # 2s
-- ACTIVE_WAIT_PERIOD = 400 # 1s
-- ACTIVE_HOLD_PERIOD = 100 # 0.25s for dealing with accidental presses
+- SEGMENT_WINDOW_SIZE = 200 # 1s
+- ACTIVE_WAIT_PERIOD = 100 # 0.5s
+- ACTIVE_HOLD_PERIOD = 100 # 0.5s for dealing with accidental presses
 - Balanced
-- 8 training sessions
-- Removed disconnect for testing
+- Have disconnect
+- more data
 
 ### Expected results
 - See if it performs any worse with our Muse model or better than recorded data

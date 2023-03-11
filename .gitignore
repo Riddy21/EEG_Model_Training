@@ -3,5 +3,7 @@
 .ipynb_checkpoints
 venv/
 processed_data/
-*.h5
+models/trial1
+models/trial2
+models/trial3
 
